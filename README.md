@@ -16,7 +16,7 @@ A decentralized Restaurant Point-of-Sale (POS) system built on the Stellar block
 
 ## Contract Details
 - **Network**: Stellar Testnet
-- **Contract ID**: _(Paste your deployed Contract ID here!)_
+- **Contract ID**: CDPN7MCDAVULW7V42Y3NWMLRJQHFZKVA4KVGBHTQCBQY75J3X2WELN4K
 
 ## Interacting on Testnet
 1. Add a menu item: [add_menu_item](cci:1://file:///c:/Users/Lenovo/Desktop/Main/stellar%20blockchain/Restaurant-POS/contracts/restaurant_pos/src/lib.rs:57:4-75:5) with `name` = "Nasi Goreng", `price` = 15000
